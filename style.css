@@ -2,6 +2,10 @@
   text-decoration: underline !important;
 }
 
+.bio {
+  margin-top: 1em;
+}
+
 .card-text > a {
   color: inherit;
   text-decoration: none;
